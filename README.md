@@ -1,71 +1,55 @@
-# 🚀 Abdulrauf's Tech Odyssey
+# 🚀 Abdul Rauf: Coding the Future, One Commit at a Time 🌟
 
-## 👋 Welcome to My Digital Playground!
+![Header Image](https://your-custom-header-image-url.com)
 
-```typescript
-const abdulrauf = {
-  code: ['JavaScript', 'Java', 'C++'],
-  technologies: {
-    frontend: ['React', 'TailwindCSS', 'Material UI', 'Redux'],
-    backend: ['Node.js', 'Express'],
-    databases: ['MongoDB', 'PostgreSQL'],
-    tools: ['VS Code', 'Vite'],
-    aiAndMl: ['TensorFlow']
-  },
-  currentLearning: ['Postgres', 'Drizzle ORM', 'Node.js'],
-  motto: "Turning coffee into code, one commit at a time! ☕💻"
+## 👨‍💻 The Code Alchemist
+
+Greetings, fellow tech enthusiasts! I'm Abdul Rauf, a Computer Science graduate with an insatiable appetite for all things tech. My journey in the digital realm is a thrilling saga of conquering algorithms, taming data structures, and crafting elegant software solutions.
+
+### 🎭 My Coding Persona
+
+- 🧙‍♂️ **Tech Wizard**: Transforming caffeine into code since [Your Graduation Year]
+- 🏗️ **Architecture Aficionado**: Building digital castles in the cloud
+- 🔍 **Bug Bounty Hunter**: Finding and squashing bugs faster than you can say "404"
+- 🚀 **Continuous Learner**: My brain is always in 'npm install' mode
+
+## 🛠️ My Techno-Magical Toolkit
+
+<p align="center">
+  <!-- Your existing skills icons here -->
+</p>
+
+## 🌱 Current Quests
+
+- Mastering the art of **Postgres** sorcery
+- Taming the wild **Drizzle ORM**
+- Ascending to **Node.js** nirvana
+
+## 🏆 Achievements Unlocked
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AbdulRauf010&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRauf010&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🌐 Connect with the Wizard
+
+<p align="center">
+  <!-- Your existing social icons here -->
+</p>
+
+## 📚 The Scroll of Knowledge
+
+Here's a glimpse into my coding philosophy:
+
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
 }
-```
 
-## 🌈 About Me
-
-I'm not just a developer, I'm a **technology enthusiast** on a mission to transform innovative ideas into elegant digital solutions. My coding journey is a thrilling adventure of continuous learning, problem-solving, and pushing technological boundaries.
-
-### 🔧 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,react,tailwind,nodejs,express,mongodb,postgres,tensorflow,vscode,github" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRauf010&theme=radical&column=4" alt="GitHub Trophies" />
-</div>
-
-### 📊 Coding Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRauf010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRauf010&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-### 🔗 Connect & Collaborate!
-
-<p align="center">
-  <a href="mailto:abdulraufchoudhry17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-rauf-48a7121a2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AbdulRauf010">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/abdulrauf.choudhry.10">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
-## 💡 Current Focus
-
-🌱 Deep diving into:
-- Advanced PostgreSQL techniques
-- Exploring Drizzle ORM
-- Expanding Node.js expertise
-
----
-
-⚡ **Fun Fact:** My IDE is basically my second home, and debugging is my favorite puzzle game! 🕹️
-
-**Always curious, forever learning** 🚀
