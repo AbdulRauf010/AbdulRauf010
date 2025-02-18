@@ -17,7 +17,7 @@ const abdulrauf = {
 }
 ```
 
-## 🌈 About Me
+##  About Me
 
 I'm not just a developer, I'm a **technology enthusiast** on a mission to transform innovative ideas into elegant digital solutions. My coding journey is a thrilling adventure of continuous learning, problem-solving, and pushing technological boundaries.
 
