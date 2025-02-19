@@ -57,12 +57,6 @@ I'm not just a developer, I'm a **technology enthusiast** on a mission to transf
   </a>
 </p>
 
-## 💡 Current Focus
-
-🌱 Deep diving into:
-- Advanced PostgreSQL techniques
-- Exploring Drizzle ORM
-- Expanding Node.js expertise
 
 ---
 
