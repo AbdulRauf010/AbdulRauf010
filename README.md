@@ -5,7 +5,7 @@
 
 ### Hi there, I'm [Abdul Rauf!](https://github.com/AbdulRauf010) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-## 👋 Welcome to My Digital Playground!
+##  Welcome to My Digital Playground!
 
 ```typescript
 const abdulrauf = {
