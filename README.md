@@ -9,9 +9,9 @@
 
 ```typescript
 const abdulrauf = {
-  code: ['JavaScript', 'Java', 'C++'],
+  code: ['JavaScript', 'Java', 'C++','python'],
   technologies: {
-    frontend: ['React','Nextjs','TailwindCSS', 'Material UI', 'Redux', 'Magic Ui', 'Shadcn', Aceternity Ui'],
+    frontend: ['React','Nextjs','TailwindCSS', 'Material UI', 'Redux', 'Magic Ui', 'Shadcn', 'Aceternity Ui'],
     backend: ['Node.js', 'Express'],
     databases: ['MongoDB'],
     tools: ['VS Code', 'Vite'],
