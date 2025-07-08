@@ -11,9 +11,9 @@
 const abdulrauf = {
   code: ['JavaScript', 'Java', 'C++'],
   technologies: {
-    frontend: ['React', 'TailwindCSS', 'Material UI', 'Redux'],
+    frontend: ['React','Nextjs','TailwindCSS', 'Material UI', 'Redux', 'Magic Ui', 'Shadcn', Aceternity Ui'],
     backend: ['Node.js', 'Express'],
-    databases: ['MongoDB', 'PostgreSQL'],
+    databases: ['MongoDB'],
     tools: ['VS Code', 'Vite'],
     aiAndMl: ['TensorFlow']
   },
