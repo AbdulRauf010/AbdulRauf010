@@ -12,12 +12,11 @@ const abdulrauf = {
   code: ['JavaScript', 'Java', 'C++','python'],
   technologies: {
     frontend: ['React','Nextjs','TailwindCSS', 'Material UI', 'Redux', 'Magic Ui', 'Shadcn', 'Aceternity Ui'],
-    backend: ['Node.js', 'Express'],
-    databases: ['MongoDB'],
+    backend: ['Node.js', 'Express','Nestjs'],
+    databases: ['MongoDB','Postgresql'],
     tools: ['VS Code', 'Vite'],
     aiAndMl: ['TensorFlow']
   },
-  currentLearning: ['Postgres', 'Drizzle ORM', 'Node.js'],
   motto: "Turning coffee into code, one commit at a time! ☕💻"
 }
 ```
