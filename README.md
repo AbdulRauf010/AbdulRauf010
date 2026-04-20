@@ -17,7 +17,6 @@ const abdulrauf = {
     tools: ['VS Code', 'Vite'],
     aiAndMl: ['TensorFlow']
   },
-  motto: "Turning coffee into code, one commit at a time! ☕💻"
 }
 ```
 
