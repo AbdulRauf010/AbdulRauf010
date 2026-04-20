@@ -36,14 +36,14 @@ I'm not just a developer, I'm a **technology enthusiast** on a mission to transf
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulRauf010&theme=radical&column=4" alt="GitHub Trophies" />
 </div>
 
-<!--
+
 ### 📊 Coding Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRauf010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRauf010&layout=compact&langs_count=7&theme=radical"/>
 </div> 
--->
+
 
 
 ### 🔗 Connect & Collaborate!
