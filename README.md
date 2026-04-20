@@ -51,6 +51,4 @@ I'm not just a developer, I'm a **technology enthusiast** on a mission to transf
 
 ---
 
-⚡ **Fun Fact:** My IDE is basically my second home, and debugging is my favorite puzzle game! 🕹️
-
 **Always curious, forever learning** 🚀
